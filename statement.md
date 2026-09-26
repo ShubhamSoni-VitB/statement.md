@@ -18,6 +18,7 @@ Problem Statement:
 In a shopping store, calculating the bill manually for different items can take time and may lead to calculation mistakes. A simple Python program can be used to take item details and automatically calculate the total bill, discount, GST, and final amount.
 
 Objective:
+
 The main objective of this project is to create a Python-based shopping bill generator that can handle one or more purchased items and produce a final bill.
 
 Working:
