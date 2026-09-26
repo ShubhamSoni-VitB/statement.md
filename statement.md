@@ -1,5 +1,5 @@
 # statement.md
-PROJECT REPORT
+PROJECT REPORT 
 
 Title : Smart Shopping Bill Generator
 
