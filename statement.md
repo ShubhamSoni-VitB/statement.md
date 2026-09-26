@@ -13,7 +13,8 @@ REGISTRATION NUMBER :26BCE11248
 
 Course : Introduction to problem solving
 
-Problem Statement:
+Problem Statement: 
+
 In a shopping store, calculating the bill manually for different items can take time and may lead to calculation mistakes. A simple Python program can be used to take item details and automatically calculate the total bill, discount, GST, and final amount.
 
 Objective:
