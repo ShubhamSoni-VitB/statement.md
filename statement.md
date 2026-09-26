@@ -5,6 +5,12 @@ Title : Smart Shopping Bill Generator
 
 Student_Name : Shubham Soni
 
+Department : SCOPE
+
+REGISTRATION NUMBER :26BCE11248
+
+
+
 Course : Introduction to problem solving
 
 Problem Statement:
