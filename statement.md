@@ -34,6 +34,7 @@ Working:
 10. The final bill is displayed.
 
 Concepts Used:
+
 • Variables and data types
 • Input and output
 • Arithmetic operators
@@ -45,7 +46,9 @@ Concepts Used:
 • round() function
 
 Expected Result:
+
 The program should generate a clear shopping bill for any positive number of items entered by the user. It should correctly display the total amount, discount, GST, final amount, and payment method.
 
 Conclusion:
+
 This project shows how basic Python concepts can be combined to solve a simple real-life billing problem. It also helps in understanding loops, conditions, calculations, and user input.
